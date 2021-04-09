@@ -264,3 +264,5 @@ To see the script
   * Copy the script from the text file into the SQL code block above!
 
 ![Database Script](assets/jx-12-m3-script.gif)
+
+//
